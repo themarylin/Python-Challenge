@@ -10,6 +10,10 @@ You can download the resource files provided in the "Resources" directory, run t
 
 This program reads the .csv file and aggregates revenue data, and creates output text files. The program user interface includes the ability to run different files, as specified by the user. 
 
+### PyPoll
+
+This program reads .csv files that include election results. It aggregates the polling data and creates output txt files that include the results, with detailed percentages and the final winner of the election.
+
 ## Authors
 
 Mary Lin
