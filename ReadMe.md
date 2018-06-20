@@ -14,6 +14,10 @@ This program reads the .csv file and aggregates revenue data, and creates output
 
 This program reads .csv files that include election results. It aggregates the polling data and creates output txt files that include the results, with detailed percentages and the final winner of the election.
 
+### PyBoss
+
+This program helps employers reorganize employee data, parse data, and export them into csv files
+
 ## Authors
 
 Mary Lin
