@@ -15,5 +15,6 @@ This program reads the .csv file and aggregates revenue data, and creates output
 Mary Lin
 
 ## Example of results
-![picture]https://github.com/themarylin90/Python-Challenge/blob/master/Output/TerminalSnip.JPG
-![picture]https://github.com/themarylin90/Python-Challenge/blob/master/Output/text_file_outputs.JPG
+![picture](https://github.com/themarylin90/Python-Challenge/blob/master/Output/TerminalSnip.JPG)
+
+![picture](https://github.com/themarylin90/Python-Challenge/blob/master/Output/text_file_outputs.JPG)
