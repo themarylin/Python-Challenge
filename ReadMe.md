@@ -22,3 +22,5 @@ Mary Lin
 ![picture](https://github.com/themarylin90/Python-Challenge/blob/master/Output/TerminalSnip.JPG)
 
 ![picture](https://github.com/themarylin90/Python-Challenge/blob/master/Output/text_file_outputs.JPG)
+
+![picture](https://github.com/themarylin90/Python-Challenge/blob/master/Output/polling_snip.JPG)
