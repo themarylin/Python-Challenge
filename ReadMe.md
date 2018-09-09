@@ -1,6 +1,6 @@
 # Python Challenge
 
-This project consists of four code samples that demonstrate my ability to code using python to clean up and analyze data.
+This project is a python script that demonstrate my ability to clean up and analyze data in python.
 
 ## Test/Debug
 

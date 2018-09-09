@@ -1,17 +1,6 @@
 import os 
 import csv
 
-#declare variables
-total_mth = 0
-total_rev = 0
-avg_rev = 0
-init_rev = 0
-change = 0
-max_increase = 0
-max_decrease = 0
-date_increase = ''
-date_decrease = ''
-
 #read csv
 def read_csv(file_name):
     #reset variables
